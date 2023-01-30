@@ -1,0 +1,12 @@
+h1{
+    color:red;
+}
+
+p{
+    font-style: italic;
+    color:blue
+}
+
+.ejemplo1 p{
+    color:pink;
+}
